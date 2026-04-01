@@ -1,0 +1,137 @@
+# 🏗️ PROJECT STRUCTURE
+## overkor-tek | The Pink Revolution
+
+> Civic accountability technology built by creators, for the people.
+
+---
+
+## 🗂️ ORGANIZATION OVERVIEW
+
+**GitHub Org:** [overkor-tek](https://github.com/overkor-tek)
+**Parent Brand:** Maggie Mayne Media
+**Sub-Brand:** overkor-tek
+**Collaborators:** Magz (MagzMayne) + D REBEL (Overkill Kulture)
+
+---
+
+## 📁 REPOSITORY MAP
+
+### 🔴 CORE / ACTIVE
+
+| Repo | Domain | Purpose | Status |
+|------|--------|---------|--------|
+| `The-Pink-Revolution-Plan` | Meta | Master planning, docs, roadmap | Active |
+| `consciousness-revolution` | Domain 1-3 | Main consciousness platform | Active |
+| `100x-platform` | Domain 4-5 | Growth and amplification platform | Active |
+| `philosopher-ai-backend` | Domain 6-7 | AI reasoning backend | Active |
+
+### 🟡 INFRASTRUCTURE / SUPPORT
+
+| Repo | Purpose | Status |
+|------|---------|--------|
+| `operation-purple-security` | GitHub Actions notification system | Active |
+| `consciousness-bugs` | Issue tracker | Active |
+| `Instructions-to-push-to-website` | Deployment guide | Reference |
+| `community` | Community docs and onboarding | Building |
+
+### 🔵 PLANNED (Domains 8-11)
+
+| Repo | Domain | Purpose | Status |
+|------|--------|---------|--------|
+| `oracle-systems` | Domain 8 | Oracle deck functionality | Planned |
+| `abundance-engine` | Domain 9 | Monetization flows | Planned |
+| `akashic-records` | Domain 10 | Archive system | Planned |
+| `bridge-protocols` | Domain 11 | API integrations | Planned |
+
+---
+
+## 🌸 THE PINK REVOLUTION PHASES
+
+### Phase 1: The-Pink-Revolution-Plan ✅ COMPLETE
+- Foundation docs created
+- Master plan established
+- Color standards defined
+
+### Phase 2: consciousness-revolution 🔄 IN PROGRESS
+- Blue → Pink color transformation
+- Color map document
+- Testing + deployment
+
+### Phase 3: 100x-platform 📋 PLANNED
+- Full assessment
+- Color transformation
+- Documentation update
+
+### Phase 4: Remaining Repos 📋 PLANNED
+- `community`
+- `consciousness-bugs`
+- `operation-purple-security`
+- New domains 8-11 as created
+
+---
+
+## 📐 SACRED GEOMETRY FRAMEWORK
+
+The overkor-tek architecture is built on an 11-domain Soul Architecture™ structure.
+
+```
+Domain 1-3   → Foundation (consciousness-revolution)
+Domain 4-5   → Amplification (100x-platform)
+Domain 6-7   → Intelligence (philosopher-ai-backend)
+Domain 8     → Oracle Systems
+Domain 9     → Abundance Engine
+Domain 10    → Akashic Records
+Domain 11    → Bridge Protocols
+```
+
+Visual reference: `THE_19_DOMAINS_FLOWER.html` (in this repo)
+
+---
+
+## 📏 STANDARDS
+
+### File Structure (per repo)
+```
+repo-name/
+├── README.md
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── SECURITY.md
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── PULL_REQUEST_TEMPLATE.md
+├── docs/
+│   ├── COLOR_STANDARDS.md
+│   ├── ARCHETYPE_GUIDE.md
+│   └── DEPLOYMENT_GUIDE.md
+└── src/
+```
+
+### Color Standards
+- Primary: Pink (`#FF69B4` / `#E91E8C`)
+- Accent: Purple (`#9B59B6`)
+- Background: Dark (`#1a1a2e`)
+- No legacy blue remaining after Pink Revolution completion
+
+### Commit Message Format
+```
+[type]: short description
+
+Types: feat | fix | docs | style | refactor | chore
+Example: docs: add PROJECT_STRUCTURE.md to Pink Revolution Plan
+```
+
+---
+
+## 🔗 EXTERNAL LINKS
+
+- Main Site: [magzmayne.github.io/maggie-mayne-site](https://magzmayne.github.io/maggie-mayne-site)
+- Gumroad: [mayneflower.gumroad.com](https://mayneflower.gumroad.com)
+- Org Page: [github.com/overkor-tek](https://github.com/overkor-tek)
+
+---
+
+*Last Updated: April 2026*
+*Maintained by: Magz (MagzMayne)*
